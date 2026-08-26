@@ -7,7 +7,8 @@
 This project implements the SARSA (State-Action-Reward-State-Action) RL-algo to solve the Cliff Walking environment. The agent learns a policy to navigate from start to goal while avoiding a cliff, using an epsilon-greedy exploration strategy and a tabular Q-value update.
  
 ## Reference
- 
+
+- Source: [Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
 - Library: [Gymnasium](https://gymnasium.farama.org/)
 - Environment: `CliffWalking-v1`
   
