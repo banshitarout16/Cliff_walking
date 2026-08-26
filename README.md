@@ -1,6 +1,6 @@
 # SARSA on Cliff Walking
  
-![Architecture](Docs/Architect.png)
+![Architecture](Docs/Architecture.png)
  
 ## Overview
  
