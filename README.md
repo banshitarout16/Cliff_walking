@@ -1,6 +1,6 @@
 # SARSA on Cliff Walking
  
-![Architecture](doc/Architect.png)
+![Architecture](Docs/Architect.png)
  
 ## Overview
  
@@ -17,8 +17,6 @@ This project implements the SARSA (State-Action-Reward-State-Action) RL-algo to 
 pip install gymnasium
 pip install "gymnasium[toy-text]"
 ```
- 
-## Files
 
 - `SARSA_cliff.ipynb` - main notebook containing the SARSA implementation
   
